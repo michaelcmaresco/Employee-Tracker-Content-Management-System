@@ -12,7 +12,7 @@
     # Add a department
     # add a role
     # add an employee
-     update an employee role
+    # update an employee role
     
 # When we choose 'all departments'
     We are presented with a formatted table showing department names and department ids.
@@ -59,3 +59,17 @@
             # update their new role 
                 # this information is updated in the database
 
+
+To Fix
+- View all departments
+- View all roles
+- add a department
+- add a role 
+- view employees by department 
+
+Works
+- View employees
+- add an employees first name 
+- update employers role
+- remove employees
+- end 
