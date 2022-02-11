@@ -5,6 +5,12 @@
 
 # Demonstration Video
 
+# Installation Packages
+    # npm install inquirer
+    # npm install mysql2
+    # npm install console.table --save
+    # bower install console.table --save
+
 # When we start the application, we are given the following options.    
     # View all Departments
     # View all roles

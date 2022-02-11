@@ -64,7 +64,7 @@ function firstPrompt() {
           addRole();
           break;
         
-        case "Add Employee":
+        case "Add an Employee":
           addEmployee();
           break;
 
